@@ -1,6 +1,6 @@
 # 2048 clone
 
-A clone of the 2048 game, written in TypeScript.
+A clone of the [2048 game](https://github.com/gabrielecirulli/2048), written in TypeScript.
 
 ### Usage
 
