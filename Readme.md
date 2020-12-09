@@ -8,7 +8,7 @@ Source code in `main.ts`.
 
 Prebuilt and HTML skeleton in `dist/`.
 
-Rebuild using `npx tsc` .
+Rebuild using `npm install && npx tsc` .
 
 ### Some implementation notes
 
